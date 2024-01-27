@@ -1,0 +1,114 @@
+.wiA {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../assets/background/bg4.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 8%;
+}
+.wiAa {
+  font-size: 74px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+@media only screen and (max-width: 800px) {
+  .wiAa {
+    font-size: 30px;
+  }
+}
+/* ////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////// */
+.wiE {
+  font-size: 64px;
+  font-weight: bold;
+  margin: 6%;
+  margin-top: 175px;
+  text-align: center;
+}
+.wiF {
+  text-align: center;
+  margin: 6%;
+  margin-bottom: 200px;
+  font-size: 32px;
+}
+@media only screen and (max-width: 800px) {
+  .wiE {
+    margin-top: 75px;
+    font-size: 30px;
+  }
+  .wiF {
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+}
+/* ////////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////////// */
+.wiC {
+  font-size: 64px;
+  font-weight: bold;
+  margin: 6%;
+  text-align: center;
+}
+@media only screen and (max-width: 800px) {
+  .wiC {
+    font-size: 30px;
+  }
+}
+/* ////////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////////////////////////// */
+.wiD {
+  padding: 80px 6%;
+  background-color: #045d00;
+  color: white;
+}
+.wiDa {
+  font-size: 48px;
+  padding-bottom: 150px;
+  text-align: center;
+}
+.wiDb_ {
+  display: flex;
+  justify-content: center;
+}
+.wiDb {
+  display: flex;
+  flex-wrap: wrap;
+}
+.wiDbA {
+  width: 350px;
+  padding: 20px;
+  font-size: 28px;
+  padding-bottom: 50px;
+}
+.wiDbAa {
+  font-size: 32px;
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+@media only screen and (max-width: 800px) {
+  .wiDa {
+    font-size: 24px;
+    padding-bottom: 50px;
+  }
+  .wiDbAa {
+    font-size: 22px;
+  }
+  .wiDbA {
+    font-size: 18px;
+  }
+}
